@@ -169,9 +169,10 @@
                     <p class="sub-head">We value your feedback!</p>
                     <ul>
                         <li>Very Happy about their services, quality and professionalism. Definitely a great value for money and will keep use them for all my projects! Special Thanks to Sulaiman Naeem who was managing my project.</li>
-                        <li>Thorough professionals with the required touch of personal assistance! Highly recommended!</li>
                         <li>They've always let us feel prioritized and valued. Professional team and always commits to whatever they promised. Quality of works guaranteed for the various projects we had with them. Looking forward to more projects with them. </li>
                         <li>Great service, very professional attitude, I really appreciate the follow-up and continued support. My best recommendations to a professional team who have been crucial in the start-up. It has been a truly rewarding journey with Incubasys.</li>
+                        <li>Thorough professionals with the required touch of personal assistance! Highly recommended!</li>
+                        <li>Professionals. Great Service. Absolute value for money.</li>
                     </ul>
                 </div>
             </div>

@@ -29,20 +29,20 @@ document.write('<scr'+'ipt type="text/javascript" src="https://maps.googleapis.c
 	$.fn.mapit = function(options) {
 
 		var defaults = {
-			latitude: 	 37.970996,
-			longitude: 	 23.730542,
+			latitude: 	 25.180930,
+			longitude: 	 55.262697,
 			zoom: 			 16,
 			type: 			 'ROADMAP',
 			scrollwheel: false,
 			marker: {
-				latitude: 	37.970996,
-				longitude: 	23.730542,
-				icon: 			'images/marker_red.png',
-				title: 			'The Hotel',
+				latitude: 	 25.180930,
+				longitude: 	 55.262697,
+				icon: 			'images/marker_blue.png',
+				title: 			'Incubasys',
 				open: 			false,
 				center: 		true
 			},
-			address: '<h2>The Hotel</h2><p>Address 1, Area - County<br />Athens 123 45, Greece</p><p>Tel.: +30 210 123 4567<br />Fax: +30 210 123 4567</p>',
+			address: '<h2>Incubasys</h2><p>204 Churchill Tower, <br />Business Bay, Dubai</p><p>Tel.: +971 4 277 6220</p>',
 			styles: 'GRAYSCALE',
 			locations: [
 				[37.999252, 23.733353, 'images/marker_blue.png', 'Cinema Aello 5+1', 'Panagi Tsaldari 140, Athina, Greece', false, '1'],

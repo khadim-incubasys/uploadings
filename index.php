@@ -164,17 +164,37 @@
 
         <section class="testimonial os-animation staggered-animation-container">
             <div class="wrap">
-                <div class="testimonial-image staggered-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s">
-                    <img src="img/client.png" alt="testimonial client" class="img-responsive" />
-                </div>
                 <div class="my-slider staggered-animation" data-os-animation="fadeInRight" data-os-animation-delay="0.3s">
                     <h2>What our Clients are Saying</h2>
                     <p class="sub-head">We value your feedback!</p>
                     <ul>
-                        <li>Very Happy about their services, quality and professionalism. Definitely a great value for money and will keep use them for all my projects! Special Thanks to Sulaiman Naeem who was managing my project.</li>
-                        <li>Thorough professionals with the required touch of personal assistance! Highly recommended!</li>
-                        <li>They've always let us feel prioritized and valued. Professional team and always commits to whatever they promised. Quality of works guaranteed for the various projects we had with them. Looking forward to more projects with them. </li>
-                        <li>Great service, very professional attitude, I really appreciate the follow-up and continued support. My best recommendations to a professional team who have been crucial in the start-up. It has been a truly rewarding journey with Incubasys.</li>
+                        <li>
+                            <div class="testimonial-image staggered-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s">
+                                <img src="img/client.png" alt="testimonial client" class="img-responsive" />
+                            </div>
+                            <p>Very Happy about their services, quality and professionalism. Definitely a great value for money and will keep use them for all my projects! Special Thanks to Sulaiman Naeem who was managing my project.</p>
+                        </li>
+                        <li>
+                            <div class="testimonial-image staggered-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s">
+                                <img src="images/testimonial.jpg" alt="testimonial client" class="img-responsive" />
+                            </div>
+                            <p>They've always let us feel prioritized and valued. Professional team and always commits to whatever they promised. Quality of works guaranteed for the various projects we had with them. Looking forward to more projects with them. </p></li>
+                        <li>
+                            <div class="testimonial-image staggered-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s">
+                                <img src="images/testimonial1.jpg" alt="testimonial client" class="img-responsive" />
+                            </div>
+                            <p>Great service, very professional attitude, I really appreciate the follow-up and continued support. My best recommendations to a professional team who have been crucial in the start-up. It has been a truly rewarding journey with Incubasys.</p></li>
+                        <li>
+                            <div class="testimonial-image staggered-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s">
+                                <img src="images/testimonial2.jpg" alt="testimonial client" class="img-responsive" />
+                            </div>
+                            <p>Thorough professionals with the required touch of personal assistance! Highly recommended!</p></li>
+                        <li>
+                            <div class="testimonial-image staggered-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s">
+                                <img src="images/testimonial3.jpg" alt="testimonial client" class="img-responsive" />
+                            </div>
+                            <p>Professionals. Great Service. Absolute value for money.</p>
+                        </li>
                     </ul>
                 </div>
             </div>

@@ -29,7 +29,19 @@
     <div class="wrap">
         <div class="top-area">
             <img src="img/logo.png" alt="Logo" /> 
-
+            <div class="bottom-links">
+                <ul>
+                    <li><a href="index.php" class="active">About Us</a></li>
+                    <!-- <li><a href="#">Why Choose Us</a></li> -->
+                    <li><a href="services.php">What we do</a></li>
+                    <li><a href="how-it-work.php">Our Process</a></li>
+                    <li><a href="why-choose-us.php">Our Team</a></li>
+                    <li><a href="portfolio.php">Portfolio</a></li>
+                    <li><a href="blog.php">Blog</a></li>
+                    <li><a href="contact-us.php">Contact</a></li>
+                    <!-- <li><a href="#">Have an App Idea?</a></li> -->
+                </ul>
+            </div>
             <div class="social-links">
                 <a href="http://twitter.com/" class="icon-button linkedin"><i class="fa fa-linkedin"></i><span></span></a>
                 <a href="http://plus.google.com" class="icon-button youtube"><i class="fa fa-youtube"></i><span></span></a>
@@ -39,19 +51,6 @@
 
 
             </div>
-        </div>
-        <div class="bottom-links">
-            <ul>
-                <li><a href="index.php" class="active">About Us</a></li>
-                <!-- <li><a href="#">Why Choose Us</a></li> -->
-                <li><a href="services.php">What we do</a></li>
-                <li><a href="how-it-work.php">How it works</a></li>
-                <li><a href="our-team.php">Our Team</a></li>
-                <li><a href="portfolio.php">Portfolio</a></li>
-                <li><a href="blog-inner.php">Blog</a></li>
-                <li><a href="contact-us.php">Contact</a></li>
-                <!-- <li><a href="#">Have an App Idea?</a></li> -->
-            </ul>
         </div>
     </div>
 </footer>
