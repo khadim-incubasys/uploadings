@@ -1,2 +1,0 @@
-[01-Mar-2016 23:14:18 America/Chicago] PHP Fatal error:  Call to undefined function open_https_url() in /home/infoincubasys/public_html/inc/thankyou.php on line 16
-[01-Mar-2016 23:14:39 America/Chicago] PHP Fatal error:  Call to undefined function open_https_url() in /home/infoincubasys/public_html/inc/thankyou.php on line 16
